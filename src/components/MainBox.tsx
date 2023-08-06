@@ -24,7 +24,7 @@ const Video = styled.div({
   backgroundImage: "url('backgroundVideo.gif')",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
-  opacity: 0.6,
+  opacity: 0.2,
 });
 
 const MainBox = () => {
