@@ -48,7 +48,7 @@ const MainBox = () => {
         >
           삐약이 탐험대에
           <br />
-          합류하세요
+          합류하세요!
         </Text>
         <Text
           fontSize="18px"
